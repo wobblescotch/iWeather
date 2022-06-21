@@ -14,7 +14,7 @@ import CoreLocation
 //}
 
 struct WeatherManager {
-    let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=xxxxxxxx&units=metric"   /*in xxxxxxxx add your own api id
+    let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=xxxxxxxx&units=metric"   //in xxxxxxxx add your own api id
     
 //    var delegate: WeatherManagerDelegate?
     
